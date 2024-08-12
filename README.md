@@ -25,8 +25,9 @@ This Project is said about the booking by the patients and helpful for doctors e
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
 # The Project was developed using the following:
-Spring Tool Suite: '4.20.0'
+Spring Tool Suite: 	`4.20.0`
 
-Oracle Version: '10g Enterprise Edition Release 10.2.0.1.0'
+Oracle Version: 		`10g Enterprise Edition Release 10.2.0.1.0`
 
-Server Software - 'Spring/4.20.0  oracle/10.2.0.1.0'
+Server Software: 	`Spring/4.20.0  oracle/10.2.0.1.0`
+
