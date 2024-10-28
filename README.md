@@ -16,7 +16,7 @@ This Project is said about the booking by the patients and helpful for doctors e
 1. Open your Spring Tool Suite and start oracle.
 2. Extract the downloaded source code zip file.
 3. Browse by port number mentioned in application.properties i.e http://localhost:8083/
-4. Browst the Doctor Appoinment and Check our site in browser. i.e http://localhost:8083/.
+4. Browse the Doctor Appoinment and Check our site in browser. i.e http://localhost:8083/ to check this first install STS and oracle in your PC and import this zip file and run it.
 
 ## Screenshots
 
