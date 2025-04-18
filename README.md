@@ -8,7 +8,7 @@ This Project is said about the booking by the patients and helpful for doctors e
 
 | About Page | Services Page | Contact Page |
 | -------| -------| -------|
-| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png) |    ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)  |
+| ![](https://github.com/ChBhargavKrishna/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Home.png)| ![](https://github.com/ChBhargavKrishna/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Home.png) |    ![](https://github.com/ChBhargavKrishna/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Home.png)  |
 
 -----------------------------------------------
 
@@ -20,7 +20,7 @@ This Project is said about the booking by the patients and helpful for doctors e
 
 ## Screenshots
 
-| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png) | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
+| ![](https://github.com/ChBhargavKrishna/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Home.png) | ![](https://github.com/ChBhargavKrishna/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Home.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
